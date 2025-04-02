@@ -56,7 +56,7 @@ def load_smtp_config():
 class GPGApp:
     def __init__(self, master):
         self.master = master
-        master.title("GPGChat - Encrypted P2P Chat and Mailing")
+        master.title("chatGPG - Encrypted P2P Chat and Mailing")
         master.geometry("800x700")  # Increased size to accommodate chat
         
         # Load SMTP configuration

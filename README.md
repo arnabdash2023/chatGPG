@@ -1,4 +1,4 @@
-# GPGChat
+# chatGPG
 
 A secure, encrypted messaging application that combines GPG encryption with peer-to-peer chat and email functionality.
 
