@@ -2,6 +2,11 @@
 
 A secure, encrypted messaging application that combines GPG encryption with peer-to-peer chat and email functionality.
 
+![image](https://github.com/user-attachments/assets/e7b10841-1308-45dc-8770-e12636ac9000)
+![image](https://github.com/user-attachments/assets/4f4ab4dd-fe3e-451b-a7f8-6716d5fd810f)
+![image](https://github.com/user-attachments/assets/68a72d6c-7ea4-469c-b634-12a0247a9779)
+![image](https://github.com/user-attachments/assets/927c0571-cb57-4cdf-830a-2ba3ff416b58)
+
 ## Features
 
 ### Encryption and Decryption
