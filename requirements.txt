@@ -1,0 +1,3 @@
+gnupg
+requests
+pyinstaller ; optional, for packaging into an executable
