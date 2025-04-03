@@ -2,10 +2,12 @@
 
 A secure, encrypted messaging application that combines GPG encryption with peer-to-peer chat and email functionality.
 
-![image](https://github.com/user-attachments/assets/e7b10841-1308-45dc-8770-e12636ac9000)
-![image](https://github.com/user-attachments/assets/4f4ab4dd-fe3e-451b-a7f8-6716d5fd810f)
-![image](https://github.com/user-attachments/assets/68a72d6c-7ea4-469c-b634-12a0247a9779)
-![image](https://github.com/user-attachments/assets/927c0571-cb57-4cdf-830a-2ba3ff416b58)
+![image](https://github.com/user-attachments/assets/656d6b0f-0cbe-4e23-ae19-9203c8fd33a2)
+![image](https://github.com/user-attachments/assets/41092fec-e550-4386-94fc-027230ce7ce1)
+![image](https://github.com/user-attachments/assets/b869c2f6-814b-4dfe-a1da-546f9c392c3e)
+![image](https://github.com/user-attachments/assets/43b18a66-1c7b-43ce-b8c6-10640ff079fc)
+![image](https://github.com/user-attachments/assets/f4b72f10-3baa-41b5-b85d-02c8d243425d)
+
 
 ## Features
 
@@ -38,7 +40,7 @@ A secure, encrypted messaging application that combines GPG encryption with peer
 
    ```bash
    git clone https://github.com/yourusername/gpgchat.git
-   cd gpgchat
+   cd chatGPG
    ```
 
 2. Install the required Python packages
@@ -54,7 +56,9 @@ A secure, encrypted messaging application that combines GPG encryption with peer
    - configparser
 
 3. Ensure GPG is installed on your system
-   - For Linux: `sudo apt-get install gnupg` (Debian/Ubuntu)
+   - For Linux:
+      - `sudo apt-get install gnupg` (Debian/Ubuntu),
+      - `sudo pacman -S gnupg` (ArchLinux)
    - For macOS: `brew install gnupg` (using Homebrew)
    - For Windows: Download and install GPG4Win from https://gpg4win.org/
 
